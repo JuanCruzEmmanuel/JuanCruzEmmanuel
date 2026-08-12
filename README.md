@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I ' m Juan cruz 👋
+![VISITAS](https://visitor-badge.laobi.icu/badge?page_id=JuanCruzEmmanuel&left_text=VISITAS&left_color=%237cf3a2&right_color=%230038e0)
 <!--
 **JuanCruzEmmanuel/JuanCruzEmmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
